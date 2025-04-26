@@ -1,6 +1,4 @@
-# Alternative calculator assignment
-
-An "alternative calculator" assignment to be used as a coding challende in DevSkiller.
+# OpFirst - "Operations First, Numbers Follow"
 
 ## Description
 
