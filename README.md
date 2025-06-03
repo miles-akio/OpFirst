@@ -1,4 +1,4 @@
-# OpFirst - "Operations First, Numbers Follow"
+# OpFirst - "Operations First, Numbers Follow" Practice Coding Test
 
 ## Description
 
